@@ -11,3 +11,8 @@ libraryDependencies += "com.typesafe.akka" % "akka-http-experimental_2.11" % "2.
 libraryDependencies += "com.typesafe.akka" % "akka-actor_2.11" % "2.5.0"
 
 libraryDependencies += "org.jsoup" % "jsoup" % "1.8.3"
+
+libraryDependencies += "commons-validator" % "commons-validator" % "1.4.0"
+
+libraryDependencies += "org.scalanlp" %% "breeze" % "0.12"
+
